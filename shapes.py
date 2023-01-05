@@ -1,3 +1,5 @@
+#Collins Wanga
+
 #Area of a circle
 def circleArea(radius):
     area = (22/7*(radius**2))
@@ -58,4 +60,3 @@ def coneArea(radius,length):
 def coneVolume(radius, height):
     volume = (1/3*22/7*(radius**2)*height)
     return volume
-
